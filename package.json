@@ -12,11 +12,11 @@
     "test": "vitest run"
   },
   "devDependencies": {
-    "@types/node": "^26.2.0",
-    "prettier": "^3.9.6",
-    "typescript": "~6.0.2",
-    "vite": "^8.2.0",
-    "vitest": "^4.1.11"
+    "@types/node": "^26.6.5",
+    "prettier": "^3.9.10",
+    "typescript": "~7.0.2",
+    "vite": "^8.3.4",
+    "vitest": "^5.0.4"
   },
   "dependencies": {
     "lit": "^3.3.3",
